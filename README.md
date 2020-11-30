@@ -1,6 +1,18 @@
-<h1 align="center">Wow there!</h1>
+# Well hello there
 
-I'm still working on this README, check back soon!
+Hey, I'm Noah, a young developer learning many things! Current things I'm learning:
+
+- PHP
+- Bash
+- Python
+- CSS
+- HTML
+- Git
+
+## Contacts
+
+I don't have very many public contacts for obvious reasons. They are out there if you can find them :wink:. My main contact is email.
+- [Email](mailto:noah@noah.snowa.tech) - Coming Soon:tm:
 
 <!--
 **NoahSnowa/NoahSnowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
