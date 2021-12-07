@@ -2,12 +2,12 @@
 
 Hey, I'm Noah, a young developer learning many things! Current things I'm learning:
 
-- PHP
-- Bash
 - Python
+- Bash
+- C++
+- PHP
 - CSS
 - HTML
-- Git
 
 ## Contacts
 
