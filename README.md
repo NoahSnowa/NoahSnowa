@@ -5,14 +5,16 @@ Hey, I'm Noah, a young developer learning many things! Current things I'm learni
 - Python
 - Bash
 - C++
-- PHP
 - CSS
 - HTML
+- JavaScript
+
+**Note:** almost all of my projects are private, and therefore hidden. If you're curious about any specific project, please reach out.
 
 ## Contacts
 
-I don't have very many public contacts for obvious reasons. They are out there if you can find them :wink:. My main contact is email.
-- [Email](mailto:noah@snowa.tech)
+I don't have very many public contacts for obvious reasons. They are out there if you can find them. My main contact is email.
+<!-- - [Email](mailto:noah@snowa.tech) -->
 - [Instagram](https://instagram.com/noahsnowa)
 
 My other secret GitHub has more contacts if you can find it. All my close friends already know it!
